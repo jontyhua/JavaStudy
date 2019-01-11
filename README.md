@@ -1,2 +1,1 @@
-# JavaStudy
-Java基础知识学习汇总
+JavaStudy是Java基础知识及拓展知识汇总的文档。欢迎大家阅读！
